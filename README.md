@@ -1,0 +1,3 @@
+## seed
+
+fibos index.js
